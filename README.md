@@ -13,6 +13,7 @@ Car Plate Recognition using YOLO for automatic license plate detection, cropping
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
+- [Demo Video](#demo-video)
 - [Future Enhancements](#future-enhancements)
 
 ## Introduction
@@ -104,6 +105,10 @@ The model demonstrates excellent performance on the validation set, achieving hi
    ```
 
 2. Your web browser will automatically open, allowing you to upload images or videos for license plate detection.
+
+## Demo Video
+
+https://github.com/user-attachments/assets/7c66b242-d53a-4de8-82c1-e4af0e1b5edb
 
 ## Future Enhancements
 
